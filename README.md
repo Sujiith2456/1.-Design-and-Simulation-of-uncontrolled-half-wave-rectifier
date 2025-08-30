@@ -1,4 +1,5 @@
-# 1.-Design-and-Simulation-of-uncontrolled-half-wave-rectifier
+# 1.-DESIGN AND SIMULATION OF UNCONTROLLED HALF WAVE RECTIFIER
+
 ## AIM
 To design and simulate Half wave rectifier (Uncontrolled) in MATLAB Simulink.
 ## APPARATUS REQUIRED
@@ -53,9 +54,15 @@ Vin = 220 Vrms at 50Hz (312 Vp)
 <img width="940" height="349" alt="image" src="https://github.com/user-attachments/assets/b2bb32b7-4bbf-4398-a2eb-a14853f5205a" />
 ## Simulation
 
+![exp 1](https://github.com/user-attachments/assets/3d791a61-c62e-4c3b-b9ed-d149f109ab34)
+
 ## Output
 
+![exp1](https://github.com/user-attachments/assets/03968baa-f247-4f24-8aa8-911028158091)
+
 ## Result
+Uncontrolled Half Wave Rectifier is designed in matlab and simulated successsfully.
+
 
 
 
